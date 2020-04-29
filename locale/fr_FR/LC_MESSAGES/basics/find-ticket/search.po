@@ -20,51 +20,55 @@ msgstr ""
 
 #: ../../basics/find-ticket/search.rst:2
 msgid "Search for Tickets"
-msgstr ""
+msgstr "Recherche de tickets"
 
 #: ../../basics/find-ticket/search.rst:4
 msgid "Looking for an archived ticket? Use the **search bar**."
-msgstr ""
+msgstr "Vous recherchez un ticket archivé? Utilisez la **barre de recherche**."
 
 #: ../../basics/find-ticket/search.rst:10
 msgid "Results appear immediately under the search bar as you type."
-msgstr ""
+msgstr "Les résultats apparaissent immédiatement sous la barre de recherche dès que vous tapez."
 
 #: ../../basics/find-ticket/search.rst:12
 msgid ""
 "It’s not just for tickets! Results cover 💬 **chat logs**, 👨 "
 "**customers**, and 🏢 **organizations**, too."
 msgstr ""
+"Ce n'est pas juste que pour les tickets! Les résultats couvrent 💬 **les journaux de discussions**, 👨 "
+"**les clients**, et 🏢 **les organisations**, aussi."
 
 #: ../../basics/find-ticket/search.rst:15
 msgid "**🔍 Here are just a few of the places the search engine will look:**"
-msgstr ""
+msgstr "**🔍 Voici quelques endroits où le moteur de recherche ira voir:**"
 
 #: ../../basics/find-ticket/search.rst:17
 msgid "📝 message subject/content"
-msgstr ""
+msgstr "📝 sujet/contenu de message"
 
 #: ../../basics/find-ticket/search.rst:18
 msgid "👩 recipient names & email addresses"
-msgstr ""
+msgstr "👩 noms des correspondants & adresses de courriel"
 
 #: ../../basics/find-ticket/search.rst:19
 msgid "📎 text in file attachments (really!)"
-msgstr ""
+msgstr "📎 texte dans un fichier en pièce jointe (vraiment!)"
 
 #: ../../basics/find-ticket/search.rst:20
 msgid "🏷️ user/organization metadata (*e.g.,* notes stored on customer profiles)"
-msgstr ""
+msgstr "🏷️ métadonnées utilisateur/orgnisation (*e.g.,* les notes sur un profil client)"
 
 #: ../../basics/find-ticket/search.rst:22
 msgid "You can find a detailed search document in our `Advanced Search`_ page."
-msgstr ""
+msgstr "Vous pouvez trouver un document de recherche détaillée dans votre page `Recherche Avancée <../../advanced/search.html>`_."
 
 #: ../../basics/find-ticket/search.rst:29
 msgid ""
 "For detailed results, click the **Show Search Details →** link just above"
 " the autocomplete list."
 msgstr ""
+"Pour des résultats détaillés, cliquez sur le lien **Afficher les détails de recherche →** "
+" juste au dessus de la liste d'autocomplétement."
 
 #: ../../basics/find-ticket/search.rst:33
 msgid "**🖱️ UI Protip**"
@@ -72,5 +76,5 @@ msgstr ""
 
 #: ../../basics/find-ticket/search.rst:35
 msgid "Click on column headings to change the display order."
-msgstr ""
+msgstr "Cliquez sur les entêtes de colonne pour changer l'ordre d'affichage."
 

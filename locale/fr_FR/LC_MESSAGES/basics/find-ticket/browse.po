@@ -20,55 +20,64 @@ msgstr ""
 
 #: ../../basics/find-ticket/browse.rst:2
 msgid "Browse for Tickets"
-msgstr ""
+msgstr "Parcourir les tickets"
 
 #: ../../basics/find-ticket/browse.rst:4
 msgid "Looking for a ticket to work on? Check the **overviews** menu."
-msgstr ""
+msgstr "Vous recherchez un ticket sur lequel vous avez travaillé? Vérifier le menu **aperçus**."
 
 #: ../../basics/find-ticket/browse.rst:10
 msgid "Click **Overviews** in the main menu to browse tickets."
-msgstr ""
+msgstr "Cliquez sur **Aperçus** dans le menu principal pour parcourir les tickets."
 
 #: ../../basics/find-ticket/browse.rst:12
 msgid ""
 "📥 Think of overviews as **inboxes**, each with a different filter for "
 "the tickets it displays."
 msgstr ""
+"📥 Pensez aux aperçus comme des **boîtes à lettres**, chacune avec un filtre différent "
+"pour afficher les tickets."
 
 #: ../../basics/find-ticket/browse.rst:15
 msgid ""
 "There are **six built-in overviews** (Zammad admin may `create more`_ "
 "with custom-defined filters):"
 msgstr ""
+"Il y a **six aperçus intégrés** (un administrateur Zammad peut en `creer plus <https://"
+"admin-docs.zammad.org/en/latest/manage-overviews.html>`_ avec des filtres personnalisés:"
 
 #: ../../basics/find-ticket/browse.rst:18
 msgid "**My assigned tickets** (*open/pending* only)"
-msgstr ""
+msgstr "**Mes tickets assignés** (*ouverts/en attente* seulement)"
 
 #: ../../basics/find-ticket/browse.rst:19
 msgid "**Unassigned & Open**"
-msgstr ""
+msgstr "**Non-assignés & ouverts**"
 
 #: ../../basics/find-ticket/browse.rst:20
 msgid ""
 "**My pending reached tickets** (previously marked *pending* and currently"
 " due)"
 msgstr ""
-
+"**Mes tickets en attente expériés** (précedemment marqués *en attente* et actuellement"
+" expirés)"
 #: ../../basics/find-ticket/browse.rst:21
 msgid "**Open** (system-wide)"
-msgstr ""
+msgstr "**Ouverts** (de manière globale)"
 
 #: ../../basics/find-ticket/browse.rst:22
 msgid ""
 "**Pending reached** (system-wide, previously marked *pending* and "
 "currently due)"
 msgstr ""
+"**Attente expériée** (de manière globale, précédemment marqués *en attente* et "
+"actuellement expirés)"
 
 #: ../../basics/find-ticket/browse.rst:23
 msgid "**Escalated** (system-wide, failing to meet a `service-level agreement`_)"
 msgstr ""
+"**Escaladés** (de manière globale, n'ont pas respecté un `contrat de service "
+"<https://admin-docs.zammad.org/en/latest/manage-slas.html>`_)"
 
 #: ../../basics/find-ticket/browse.rst:25
 msgid "**🖱️ UI Protip**"
@@ -76,17 +85,19 @@ msgstr ""
 
 #: ../../basics/find-ticket/browse.rst:27
 msgid "Click on column headings to change the display order."
-msgstr ""
+msgstr "Cliquez sur l'entête d'une colonne pour changer l'ordre d'affichage."
 
 #: ../../basics/find-ticket/browse.rst:28
 msgid "Click-and-drag column dividers to adjust their width."
-msgstr ""
+msgstr "Cliquez-Déposez les séparateurs des colonnes pour ajuster leur largeur."
 
 #: ../../basics/find-ticket/browse.rst:29
 msgid ""
 ":doc:`Ticket states </basics/service-ticket/settings/state>` are **color-"
 "coded:**"
 msgstr ""
+":doc:`Les statuts des tickets  </basics/service-ticket/settings/state>` sont **codés "
+"par couleur:**"
 
 #: ../../basics/find-ticket/browse.rst:32
 msgid "|grn|"
@@ -94,7 +105,7 @@ msgstr ""
 
 #: ../../basics/find-ticket/browse.rst:32
 msgid "**Closed**"
-msgstr ""
+msgstr "**Fermé**"
 
 #: ../../basics/find-ticket/browse.rst:34
 msgid "|blk|"
@@ -102,7 +113,7 @@ msgstr ""
 
 #: ../../basics/find-ticket/browse.rst:34
 msgid "**Postponed** (Marked as pending; no immediate action required.)"
-msgstr ""
+msgstr "**En attente** (Marqué en attente; aucune action immédiate nécessaire.)"
 
 #: ../../basics/find-ticket/browse.rst:37
 msgid "|ylw|"
@@ -110,7 +121,7 @@ msgstr ""
 
 #: ../../basics/find-ticket/browse.rst:37
 msgid "**New / Open** (Ready for action.)"
-msgstr ""
+msgstr "**Nouveau / Ouvert** (Prêt pour action.)"
 
 #: ../../basics/find-ticket/browse.rst:39
 msgid "|red|"
@@ -118,5 +129,5 @@ msgstr ""
 
 #: ../../basics/find-ticket/browse.rst:39
 msgid "**Escalated** (Requires urgent attention.)"
-msgstr ""
+msgstr "**Escaladé** (Nécessite une action urgente.)"
 
