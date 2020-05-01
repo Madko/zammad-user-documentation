@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../basics/service-ticket/create.rst:2
 msgid "Creating a Ticket"
-msgstr ""
+msgstr "Créer un ticket"
 
 #: ../../basics/service-ticket/create.rst:4
 msgid ""
@@ -28,66 +28,76 @@ msgid ""
 "issues come your way. But sometimes, there’s just no way for Zammad to "
 "know when an issue arrives – like when a customer calls on the phone."
 msgstr ""
+"Zammad fait de son mieux pour créer les tickets automatiquement quand de "
+"nouvelles demandes de client vous arrivent. Mais quelques fois, il n'y a tout "
+"simplement aucun moyen pour Zammad de savoir qu'une nouvelle demande arrive - "
+"comme quand un client appelle par télephone."
 
 #: ../../basics/service-ticket/create.rst:10
 msgid "In these cases, Zammad needs your help to **create a new ticket**."
-msgstr ""
+msgstr "Dans ces cas, Zammad nécessite votre aide pour **créer un nouveau ticket**."
 
 #: ../../basics/service-ticket/create.rst:16
 msgid ""
 "Click the **➕ button** to create a new ticket. The default ticket type is"
 " **received call**."
 msgstr ""
+"Cliquez sur le **bouton +** pour créer un nouveau ticket. Le type par défaut du "
+"ticket est **appel reçu**."
 
 #: ../../basics/service-ticket/create.rst:18
 msgid "An agent can create three types of tickets:"
-msgstr ""
+msgstr "Un opérateur peut créer trois types de tickets:"
 
 #: ../../basics/service-ticket/create.rst
 msgid "Received Call"
-msgstr ""
+msgstr "Appel reçu"
 
 #: ../../basics/service-ticket/create.rst:20
 msgid "for issues **initiated by a customer** over the phone."
-msgstr ""
+msgstr "pour les demandes **faites par un client** par télephone."
 
 #: ../../basics/service-ticket/create.rst
 msgid "Outbound Call"
-msgstr ""
+msgstr "Appel sortant"
 
 #: ../../basics/service-ticket/create.rst:21
 msgid "for issues **initiated by an agent** over the phone."
-msgstr ""
+msgstr "pour les demandes **faite par un opérateur** par télephone."
 
 #: ../../basics/service-ticket/create.rst
 msgid "Send Email"
-msgstr ""
+msgstr "Email sortant"
 
 #: ../../basics/service-ticket/create.rst:22
 msgid "for issues **initiated by an agent** over email."
-msgstr ""
+msgstr "pour les demandes **faite par un opérateur** par courriel."
 
 #: ../../basics/service-ticket/create.rst:25
 msgid "Filling Out the Form"
-msgstr ""
+msgstr "Remplir le formulaire"
 
 #: ../../basics/service-ticket/create.rst:27
 msgid "Here’s a quick run-down of each input field in the New Ticket form:"
 msgstr ""
+"Voici un rapide passage en revue de chaque champ du formulaire de nouveau 
+"ticket:"
 
 #: ../../basics/service-ticket/create.rst:31
 msgid "Title"
-msgstr ""
+msgstr "Titre"
 
 #: ../../basics/service-ticket/create.rst:30
 msgid ""
 "The title of the ticket will be used as the **subject line** for all "
 "email correspondences."
 msgstr ""
+"Le titre du ticket sera utilisé comme **ligne de sujet** pour toutes les "
+"correspondances par courriel."
 
 #: ../../basics/service-ticket/create.rst:54
 msgid "Customer"
-msgstr ""
+msgstr "Client"
 
 #: ../../basics/service-ticket/create.rst:34
 msgid ""
@@ -95,14 +105,17 @@ msgid ""
 "addresses only**. You **must** select an option from the autocomplete "
 "menu, or else create a new customer."
 msgstr ""
+"Lors de la saisie d'un client, le menu d'autocomplétement recherche l'**adresse "
+"courriel seulement**. Vous **devez** choisir une option pour le menu d'autocomplétement "
+", ou sinon créer un nouveau client."
 
 #: ../../basics/service-ticket/create.rst:39
 msgid "You may **not** assign a ticket to more than one customer."
-msgstr ""
+msgstr "Vous ne devez **pas** assigner un ticket à plus d'un client."
 
 #: ../../basics/service-ticket/create.rst:45
 msgid "Autocomplete can’t find customers by name."
-msgstr ""
+msgstr "L'autocomplétement ne peut trouver de clients par leur nom."
 
 #: ../../basics/service-ticket/create.rst:47
 #: ../../snippets/ui-protip-message-editor-features.rst:1
@@ -114,10 +127,12 @@ msgid ""
 "Once a customer has been selected, her profile will be accessible from "
 "the **ticket pane**."
 msgstr ""
+"Dès qu'un client a été sélectionné, son profil sera accessible depuis "
+"le **panneau ticket**."
 
 #: ../../basics/service-ticket/create.rst:63
 msgid "Text"
-msgstr ""
+msgstr "Texte"
 
 #: ../../basics/service-ticket/create.rst:57
 msgid ""
@@ -125,52 +140,61 @@ msgid ""
 "will not be sent to the customer (though he may be able to see them if he"
 " has a Zammad account)."
 msgstr ""
+"📞 pour les appels téléphoniques, pour conserver les détails de votre conversation. "
+"Ces notes ne seront pas envoyées au client (bien qu'il pourrait les voir s'il "
+"possède un compte Zammad)."
 
 #: ../../basics/service-ticket/create.rst:61
 msgid "📧 For emails, this is the body of your outgoing message."
-msgstr ""
+msgstr "📧 Pour les courriels, il s'agit du corps de votre message sortant."
 
 #: ../../snippets/ui-protip-message-editor-features.rst:3
 msgid ""
 "The message editor supports 📋 copying-and-pasting (or dragging-and-"
 "dropping) of **🔤 rich text**, **🌄 images** and **📎 file attachments**."
 msgstr ""
+"L'éditeur de message supporte le 📋 copier-coller (ou glisser-déposer) de "
+"**🔤 texte riche**, **🌄 images** et **📎 pièces jointes**."
 
 #: ../../snippets/ui-protip-message-editor-features.rst:6
 msgid ""
 "Use the built-in :doc:`keyboard shortcuts </advanced/keyboard-shortcuts>`"
 " to apply rich text formatting."
 msgstr ""
+"Utilisez les :doc:`raccourcis clavier </advanced/keyboard-shortcuts>`"
+" intégrés pour appliquer un formattage riche au texte."
 
 #: ../../basics/service-ticket/create.rst:65
 msgid "Ticket Settings"
-msgstr ""
+msgstr "Paramètres du ticket"
 
 #: ../../snippets/ticket-settings-link-list.rst:1
 msgid "**📖 See Also**"
-msgstr ""
+msgstr "**📖 Voir aussi**"
 
 #: ../../snippets/ticket-settings-link-list.rst:3
 msgid "For an in-depth discussion of each ticket setting, see the articles below:"
 msgstr ""
+"Pour une discussion approfondie sur chaque paramètre de ticket, voir "
+"les articles ci-dessous:"
 
 #: ../../snippets/ticket-settings-link-list.rst:5
 msgid ":doc:`Owner </basics/service-ticket/settings/owner>`"
-msgstr ""
+msgstr ":doc:`Propriétaire </basics/service-ticket/settings/owner>`"
 
 #: ../../snippets/ticket-settings-link-list.rst:6
 msgid ":doc:`State </basics/service-ticket/settings/state>`"
-msgstr ""
+msgstr ":doc:`Etat </basics/service-ticket/settings/state>`"
 
 #: ../../snippets/ticket-settings-link-list.rst:7
 msgid ":doc:`Group </basics/service-ticket/settings/group>`"
-msgstr ""
+msgstr ":doc:`Groupe </basics/service-ticket/settings/group>`"
 
 #: ../../snippets/ticket-settings-link-list.rst:8
 msgid ":doc:`Priority </basics/service-ticket/settings/priority>`"
-msgstr ""
+msgstr ":doc:`Priorité </basics/service-ticket/settings/priority>`"
 
 #: ../../snippets/ticket-settings-link-list.rst:9
 msgid ":doc:`Tags </basics/service-ticket/settings/tags>`"
-msgstr ""
+msgstr ":doc:`Etiquettes </basics/service-ticket/settings/tags>`"
 

@@ -20,47 +20,56 @@ msgstr ""
 
 #: ../../basics/service-ticket/settings.rst:2
 msgid "Ticket Settings"
-msgstr ""
+msgstr "Paramètres du ticket"
 
 #: ../../basics/service-ticket/settings.rst:4
 msgid "Use the **ticket pane** to manage a ticket’s settings:"
-msgstr ""
+msgstr "Utilisez le **panneau ticket** pour gérer les paramètres d'un ticket:"
 
 #: ../../basics/service-ticket/settings.rst:20
 msgid ""
 "Click the **→** button in the corner to hide the ticket pane. Click the "
 "💬 tab to bring it back."
-msgstr ""
+msgstr "Cliquez sur le bouton **→** dans le coin pour cacher le panneau ticket. "
+"Cliquez sur l'onglet 💬 pour l'afficher de nouveau."
 
 #: ../../basics/service-ticket/settings.rst:23
 msgid ""
 "🚫 Some options may not be available if do not you have the required "
 "privileges."
 msgstr ""
+"🚫 Certaines options peuvent ne pas être disponibles si vous n'avez pas les "
+"privilèges nécessaires."
 
 #: ../../basics/service-ticket/settings.rst:29
 msgid "Renaming a Ticket"
-msgstr ""
+msgstr "Renommer un ticket"
 
 #: ../../basics/service-ticket/settings.rst:31
 msgid "To rename a ticket, simply click on the title and start typing."
-msgstr ""
+msgstr "Pour renommer un ticket, cliquez simplement sur le titre et commencez "
+"à taper."
 
 #: ../../basics/service-ticket/settings.rst:37
 msgid "Highlighting Ticket Text"
-msgstr ""
+msgstr "Surligner le texte du ticket"
 
 #: ../../basics/service-ticket/settings.rst:39
 msgid ""
 "Use the highlighter tool in the upper-righthand corner to mark up "
 "important text. (Your highlights are **not** visible to other agents.)"
 msgstr ""
+"Utilisez l'outil surligneur dans le coin supérieur droit pour "
+"marquer du texte important. (Vos surlignages ne sont **pas** visible pour "
+"les autres opérateurs.)"
 
 #: ../../basics/service-ticket/settings.rst:45
 msgid ""
 "Highlight by selecting text, then clicking the highlighter. Click again "
 "to undo."
 msgstr ""
+"Surlignez en selectionnant le texte, puis cliquez sur le surligneur. Cliquez "
+"encore pour annuler."
 
 #: ../../basics/service-ticket/settings.rst:49
 msgid "**🖱️ UI Protip**"
@@ -68,37 +77,41 @@ msgstr ""
 
 #: ../../basics/service-ticket/settings.rst:51
 msgid "Additional actions are available via the **submenu**:"
-msgstr ""
+msgstr "Des actions supplémentaires sont disponibles via le **sous-menu**:"
 
 #: ../../basics/service-ticket/settings.rst:57
 msgid "Click the **Ticket ▾** heading to access additional actions."
-msgstr ""
+msgstr "Cliquez l'entête du **ticket ▾** pour accéder aux actions supplémentaires."
 
 #: ../../basics/service-ticket/settings.rst:62
 msgid "History"
-msgstr ""
+msgstr "Historique"
 
 #: ../../basics/service-ticket/settings.rst:60
 msgid ""
 "See a comprehensive list of updates to the ticket, performed by any user,"
 " since its creation."
 msgstr ""
+"Pour voir une liste exhaustive des mises à jour du ticket, effectuées par "
+"n'importe quel utilisateur, depuis sa création."
 
 #: ../../basics/service-ticket/settings.rst:66
 msgid "Merge"
-msgstr ""
+msgstr "Fusionner"
 
 #: ../../basics/service-ticket/settings.rst:65
 msgid ""
 "Migrate all messages/notes to another ticket (see :doc:`Merging Tickets "
 "</advanced/ticket-actions/merge>` for details)."
 msgstr ""
+"Déplace tous les messages/notes sur un autre ticket (voir :doc:`Fusionner des tickets "
+"</advanced/ticket-actions/merge>` pour plus de details)."
 
 #: ../../basics/service-ticket/settings.rst:68
 msgid "Change Customer"
-msgstr ""
+msgstr "Changer le client"
 
 #: ../../basics/service-ticket/settings.rst:69
 msgid "Reassign the ticket to another customer."
-msgstr ""
+msgstr "Reassigner le ticket à un autre client."
 

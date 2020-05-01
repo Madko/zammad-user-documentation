@@ -20,17 +20,21 @@ msgstr ""
 
 #: ../../basics/service-ticket/settings/tags.rst:2
 msgid "Tags"
-msgstr ""
+msgstr "Etiquettes"
 
 #: ../../basics/service-ticket/settings/tags.rst:4
 msgid ""
 "**Tags** are custom-defined labels that can be applied to tickets to make"
 " it easier to find them in the future."
 msgstr ""
+"**Les étiquettes** sont des champs personnalisés qui peuvent être associés aux "
+"tickets pour simplifier leur recherche dans le futur."
 
 #: ../../basics/service-ticket/settings/tags.rst:11
 msgid "Click on a tag name to view other tickets with the same tag."
 msgstr ""
+"Cliquez sur un nom d'étiquette pour voir les autres tickets avec la même "
+"étiquette."
 
 #: ../../basics/service-ticket/settings/tags.rst:13
 msgid ""
@@ -38,4 +42,7 @@ msgid ""
 "with the ``tag:`` search filter. For instance, find all tickets with the "
 "**order** tag by searching for ``tag:order``."
 msgstr ""
+":doc:`Pour rechercher des tickets avec une étiquette donnée </basics/find-ticket/search>` "
+"avec le filtre de recerche ``tag:``. Par exemple, pour trouver tous les tickets "
+"avec l'étiquette **commande** en cherchant : ``tag:commande``."
 

@@ -20,17 +20,18 @@ msgstr ""
 
 #: ../../basics/service-ticket/settings/owner.rst:2
 msgid "Owner"
-msgstr ""
+msgstr "Propriétaire"
 
 #: ../../basics/service-ticket/settings/owner.rst:4
 msgid ""
 "A ticket’s **owner** is simply *the agent that is currently responsible "
 "for it*."
 msgstr ""
+"Un **propriétaire** d'un ticket est simplement *l'opérateur qui en est actuellement responsable*.
 
 #: ../../basics/service-ticket/settings/owner.rst:8
 msgid "Whose job is it to assign tickets?"
-msgstr ""
+msgstr "A qui appartient la tâche d'assigner les tickets?"
 
 #: ../../basics/service-ticket/settings/owner.rst:10
 msgid ""
@@ -38,16 +39,22 @@ msgid ""
 " assign tickets to yourself** when you choose an issue to work on from "
 "the pool of new tickets."
 msgstr ""
+"Cela dépend de votre gestion dans votre société, mais dans la plupart des cas, "
+"**vous assignerez les tickets à vous-même** quand vous choisirez une demande à "
+"traiter dans la pile des nouveaux tickets."
 
 #: ../../basics/service-ticket/settings/owner.rst:16
 msgid ""
 "In principle, any agent may assign a ticket to any other, as long as both"
 " have the required privileges for the ticket’s :doc:`group <group>`."
 msgstr ""
+"En principe, n'importe quel opérateur peut assigner un ticket à un autre, du "
+"moment qu'ils ont tous les deux les privileges nécessaires dans le `groupe <group>` "
+"du ticket."
 
 #: ../../basics/service-ticket/settings/owner.rst:21
 msgid "Why would I want to re-assign a ticket to someone else?"
-msgstr ""
+msgstr "Pourquoi voudrais-je re-assigner un ticket à quelqu'un d'autre?"
 
 #: ../../basics/service-ticket/settings/owner.rst:23
 msgid ""
@@ -56,4 +63,8 @@ msgid ""
 "closed. In such cases, a colleague may assign a ticket to you (or vice "
 "versa) after it has been partially resolved."
 msgstr ""
+"Quelques fois, des demandes complexes pourront nécessiter qu'un ticket fasse "
+":ref:`des allers et retours entre plusieurs opérateurs <sharing-work>` avant "
+"qu'il puisse être fermé. Dans de tel cas, un collègue peut vous assigner un "
+"ticket (ou vice-versa) après l'avoir partiellement résolu."
 

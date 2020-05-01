@@ -27,59 +27,78 @@ msgid ""
 "The **state** of a ticket refers to *its progress toward completion,* and"
 " may be one of the following:"
 msgstr ""
+"L'**état** d'un ticket s'apparente à *son progrès vers son achèvement,* et"
+" peut être un des suivants:"
 
 #: ../../basics/service-ticket/settings/state.rst:7
 msgid "new"
-msgstr ""
+msgstr "nouveau"
 
 #: ../../basics/service-ticket/settings/state.rst:8
 msgid "open"
-msgstr ""
+msgstr "ouvert"
 
 #: ../../basics/service-ticket/settings/state.rst:9
 msgid "closed"
-msgstr ""
+msgstr "fermé"
 
 #: ../../basics/service-ticket/settings/state.rst:10
 msgid "pending close (*i.e.,* scheduled to automatically close at a later date)"
 msgstr ""
+"en attente de fermeture (*i.e.,* plannifié pour être automatiquement fermé "
+"à une date ultérieure)"
 
 #: ../../basics/service-ticket/settings/state.rst:12
 msgid ""
 "pending reminder (*i.e.,* hidden, but scheduled to reappear at a later "
 "date)"
 msgstr ""
+"rappel en attente (*i.e.,* caché, mais plannifié pour reapparaitre à une date "
+"ultérieure)"
 
 #: ../../basics/service-ticket/settings/state.rst:18
 msgid "What’s the difference between “new” and “open”?"
-msgstr ""
+msgstr "Quelle est la différence entre “nouveau” and “ouvert”?"
 
 #: ../../basics/service-ticket/settings/state.rst:20
 msgid ""
 "States do more than just indicate progress: Zammad has a fine-grained "
-"time tracking feature (so-called “\\ `service-level agreements`_\\ ”, or "
+"time tracking feature (so-called “\\ `service-level agreements <https://admin-"
+"docs.zammad.org/en/latest/manage-slas.html>`_\\ ”, or "
 "SLAs) that uses state information to measure how long it takes for "
 "customers to get a response on a new ticket or get their issues resolved "
 "entirely."
 msgstr ""
+"Les états font plus qu'indiquer une progression: Zammad possède une fonctionnalité "
+"de suivi précis du temps passé (appelé “\\ `contrats de niveau de service <https://admin-"
+"docs.zammad.org/en/latest/manage-slas.html>`_\\ ”, ou "
+"SLAs) qui utilisent l'information sur l'état pour mesurer combien de temps il faut "
+"pour qu'un client recoive une réponse sur un nouveau ticket ou pour voir leurs "
+"demandes traitées complètement." 
 
 #: ../../basics/service-ticket/settings/state.rst:27
 msgid ""
 "On a *new* ticket, the customer still hasn’t received her first response "
 "on the issue."
 msgstr ""
+"Sur un *nouveau* ticket, le client n'a pas encore reçu de prémière réponse "
+"concernant sa demande."
 
 #: ../../basics/service-ticket/settings/state.rst:30
 msgid ""
 "On an *open* ticket, the customer has received an initial response, but "
 "the issue still hasn’t been resolved."
 msgstr ""
+"Sur un ticket *ouvert*, le client a déjà reçu une réponse initiale, mais "
+"la demande n'a pas encore été traitée.
 
 #: ../../basics/service-ticket/settings/state.rst:34
 msgid ""
 "⏱️ Tickets in a *pending* state do not accumulate time toward their SLA "
 "limits."
 msgstr ""
+"⏱️ Les tickets dans un état d'**attente** ne consomme pas de temps dans leurs "
+"limites du SLA"
 
 #: ../../basics/service-ticket/settings/state.rst:36
 msgid ""
@@ -87,4 +106,6 @@ msgid ""
 "waiting on feedback from a third-party supplier who’s out of town until "
 "next week."
 msgstr ""
-
+"Donc, par exemple, un ticket peut être marqué *rappel en attente* si il "
+"attend un retour d'un fournisseur tiers qui est actuellement absent "
+"jusqu'à la semaine prochaine."
