@@ -20,29 +20,29 @@ msgstr ""
 
 #: ../../snippets/ticket-settings-link-list.rst:1
 msgid "**📖 See Also**"
-msgstr ""
+msgstr "**📖 Voir aussi**"
 
 #: ../../snippets/ticket-settings-link-list.rst:3
 msgid "For an in-depth discussion of each ticket setting, see the articles below:"
-msgstr ""
+msgstr "Pour une discussion approfondie de chaque paramètre ticket, voir les articles suivants:"
 
 #: ../../snippets/ticket-settings-link-list.rst:5
 msgid ":doc:`Owner </basics/service-ticket/settings/owner>`"
-msgstr ""
+msgstr ":doc:`Propriétaire </basics/service-ticket/settings/owner>`"
 
 #: ../../snippets/ticket-settings-link-list.rst:6
 msgid ":doc:`State </basics/service-ticket/settings/state>`"
-msgstr ""
+msgstr ":doc:`Etat </basics/service-ticket/settings/state>`"
 
 #: ../../snippets/ticket-settings-link-list.rst:7
 msgid ":doc:`Group </basics/service-ticket/settings/group>`"
-msgstr ""
+msgstr ":doc:`Groupe </basics/service-ticket/settings/group>`"
 
 #: ../../snippets/ticket-settings-link-list.rst:8
 msgid ":doc:`Priority </basics/service-ticket/settings/priority>`"
-msgstr ""
+msgstr ":doc:`Priorité </basics/service-ticket/settings/priority>`"
 
 #: ../../snippets/ticket-settings-link-list.rst:9
 msgid ":doc:`Tags </basics/service-ticket/settings/tags>`"
-msgstr ""
+msgstr ":doc:`Etiquettes </basics/service-ticket/settings/tags>`"
 

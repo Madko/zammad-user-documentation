@@ -27,10 +27,13 @@ msgid ""
 "The message editor supports 📋 copying-and-pasting (or dragging-and-"
 "dropping) of **🔤 rich text**, **🌄 images** and **📎 file attachments**."
 msgstr ""
+"L'éditeur de message supporte le 📋 copier-coller (ou glisser-déposer)"
+"de **🔤 texte riche**, **🌄 images** et **📎 pièces jointes**."
 
 #: ../../snippets/ui-protip-message-editor-features.rst:6
 msgid ""
 "Use the built-in :doc:`keyboard shortcuts </advanced/keyboard-shortcuts>`"
 " to apply rich text formatting."
 msgstr ""
-
+"Utilisez les :doc:`raccourcis clavier </advanced/keyboard-shortcuts>` intégrés"
+" pour appliquer un formattage de texte riche."
