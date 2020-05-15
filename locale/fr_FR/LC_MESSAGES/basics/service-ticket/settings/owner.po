@@ -27,7 +27,7 @@ msgid ""
 "A ticket’s **owner** is simply *the agent that is currently responsible "
 "for it*."
 msgstr ""
-"Un **propriétaire** d'un ticket est simplement *l'opérateur qui en est actuellement responsable*.
+"Un **propriétaire** d'un ticket est simplement *l'opérateur qui en est actuellement responsable*."
 
 #: ../../basics/service-ticket/settings/owner.rst:8
 msgid "Whose job is it to assign tickets?"
@@ -49,7 +49,7 @@ msgid ""
 " have the required privileges for the ticket’s :doc:`group <group>`."
 msgstr ""
 "En principe, n'importe quel opérateur peut assigner un ticket à un autre, du "
-"moment qu'ils ont tous les deux les privileges nécessaires dans le `groupe <group>` "
+"moment qu'ils ont tous les deux les privileges nécessaires dans le :doc:`groupe <group>` "
 "du ticket."
 
 #: ../../basics/service-ticket/settings/owner.rst:21

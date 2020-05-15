@@ -43,7 +43,7 @@ msgstr ""
 msgid "Enable the **Phone** panel to receive notifications for incoming calls."
 msgstr ""
 "Activer le panneau **Telephone** pour recevoir des notifications pour "
-"les appels entrants.
+"les appels entrants."
 
 #: ../../extras/caller-log.rst:18
 msgid ""
