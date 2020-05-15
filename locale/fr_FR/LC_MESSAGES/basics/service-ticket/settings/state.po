@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../basics/service-ticket/settings/state.rst:2
 msgid "State"
-msgstr ""
+msgstr "Etat"
 
 #: ../../basics/service-ticket/settings/state.rst:4
 msgid ""

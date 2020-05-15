@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../extras/dashboard.rst:2
 msgid "Checking Your Stats"
-msgstr ""
+msgstr "Vérifiez vos stats"
 
 #: ../../extras/dashboard.rst:4
 msgid ""
@@ -28,38 +28,45 @@ msgid ""
 " your productivity at a glance, compare it to the company average (in "
 "gray at the bottom of each pane), and see what everyone else is up to."
 msgstr ""
+"Le **tableau de bord** est la première chose que vous verrez après vous êtes connectés."
+" Surveillez votre productivité d'un coup d'oeil, comparez la avec la moyenne "
+" de votre société (en gris en bas de chaque panneau), et voyez où en sont les autres."
 
 #: ../../extras/dashboard.rst:11
 msgid "Check the dashboard for a quick summary of your stats."
-msgstr ""
+msgstr "Verifiez le tableau de bord pour un résumé rapide de vos stats."
 
 #: ../../extras/dashboard.rst:14
 msgid "Legend"
-msgstr ""
+msgstr "Légende"
 
 #: ../../extras/dashboard.rst:16
 msgid "**1. Waiting Time Today**"
-msgstr ""
+msgstr "**1. Temps d'attente aujourd'hui**"
 
 #: ../../extras/dashboard.rst:16
 msgid ""
 "How long has each customer had to wait, on average, to get a response "
 "from you today?"
 msgstr ""
+"Combien de temps a dû attendre chaque client, en moyenne, pour obtenir une réponse "
+"de votre part aujourd'hui?"
 
 #: ../../extras/dashboard.rst:20
 msgid "**2. Mood**"
-msgstr ""
+msgstr "**2. Humeur**"
 
 #: ../../extras/dashboard.rst:20
 msgid ""
 "How many escalated tickets do you have open? (Mr. Bubbles gets grumpy if "
 "you have too many...)"
 msgstr ""
+"Combien de ticket escaladés vous avez ouvert? (Mr. Bubbles devient grincheux "
+"si vous en avez trop...)"
 
 #: ../../extras/dashboard.rst:24
 msgid "**3. Channel Distribution**"
-msgstr ""
+msgstr "**3. Distribution par canal"
 
 #: ../../extras/dashboard.rst:24
 msgid ""
@@ -67,38 +74,45 @@ msgid ""
 "Facebook? (Shows percentages for both **inbound** and **outbound** "
 "tickets.)"
 msgstr ""
+"Combien de vos tickets sont arrivés par courriel, télephone, Twitter, ou "
+"Facebook? (montre les pourcentages pour les tickets **entrants** et **sortants** "
+".)"
 
 #: ../../extras/dashboard.rst:29
 msgid "**4. Assigned**"
-msgstr ""
+msgstr "**4. Assignés**"
 
 #: ../../extras/dashboard.rst:29
 msgid "Out of all open tickets (company-wide), how many are assigned to you?"
 msgstr ""
+"Sur tous vos tickets ouverts (sur l'ensemble de la société), combien "
+"vous sont assignés?"
 
 #: ../../extras/dashboard.rst:32
 msgid "**5. Your Tickets in Process**"
-msgstr ""
+msgstr "**5. Vos tickets en cours**"
 
 #: ../../extras/dashboard.rst:32
 msgid ""
 "What percentage of your tickets have you responded to, updated, or "
 "modified in some way today?"
 msgstr ""
+"Quel est le pourcentage aujourd'hui de vos tickets auxquels vous avez répondu, apporté "
+"une mise à jour, ou autre modification?"
 
 #: ../../extras/dashboard.rst:36
 msgid "**6. Reopening Rate**"
-msgstr ""
+msgstr "**6. Taux de réouverture**"
 
 #: ../../extras/dashboard.rst:36
 msgid "How many of your tickets have been re-opened after being marked “closed”?"
-msgstr ""
+msgstr "Combien de vos tickets ont été ré-ouverts après avoir été marqués “fermés”?"
 
 #: ../../extras/dashboard.rst:39
 msgid "**7. Activity Stream**"
-msgstr ""
+msgstr "**7. Flux d'activité**"
 
 #: ../../extras/dashboard.rst:39
 msgid "What’s everyone else on your team up to?"
-msgstr ""
+msgstr "A quel niveau en sont les autres?"
 

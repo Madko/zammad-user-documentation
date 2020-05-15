@@ -20,17 +20,19 @@ msgstr ""
 
 #: ../../basics/service-ticket/settings/priority.rst:2
 msgid "Priority"
-msgstr ""
+msgstr "Priorité"
 
 #: ../../basics/service-ticket/settings/priority.rst:4
 msgid ""
 "A ticket’s **priority** is simply a ranking (from 1 to 3) of *how urgent "
 "or important it is*."
 msgstr ""
+"Une **priorité** d'un ticket est simplement un ordre de grandeur (de 1 à 3) de "
+"*combien il est urgent ou important*."
 
 #: ../../basics/service-ticket/settings/priority.rst:8
 msgid "But what does it do, and how should I use it?"
-msgstr ""
+msgstr "Mais qu'est-ce que ça fait, et comment je dois l'utiliser?"
 
 #: ../../basics/service-ticket/settings/priority.rst:10
 msgid ""
@@ -38,28 +40,37 @@ msgid ""
 "However, Zammad administrators can set up all sorts of automated hooks "
 "that fire off based on this value, like:"
 msgstr ""
+"De base, **la priorité d'un ticket ne fait absolument rien**. "
+"Cependant, les administrateurs Zammad peuvent définir toutes sortes d'actions "
+"automatisées qui peuvent se baser sur cette valeur, comme:"
 
 #: ../../basics/service-ticket/settings/priority.rst:14
 msgid "`service-level agreements`_,"
-msgstr ""
+msgstr "`contrats de niveau de service <https://admin-docs.zammad.org/en/latest/manage-"
+"slas.html>`_"
 
 #: ../../basics/service-ticket/settings/priority.rst:15
 msgid "`triggers`_, and"
-msgstr ""
+msgstr "`déclencheurs <https://admin-docs.zammad.org/en/latest/manage-trigger.html>`_, et"
 
 #: ../../basics/service-ticket/settings/priority.rst:16
 msgid "`scheduled events`_."
-msgstr ""
+msgstr "`tâches planifiées <https://admin-docs.zammad.org/en/latest/manage-"
+"scheduler.html>`_."
 
 #: ../../basics/service-ticket/settings/priority.rst:18
 msgid ""
 "Priority can also be used as a ticket filter when creating `custom "
 "overviews`_."
 msgstr ""
+"La priorité peut être aussi utilisée en tant que filtre lors de la "
+"création d'`aperçus personnalisés <https://admin-docs.zammad.org/en/latest/manage-"
+"overviews.html>`_."
 
 #: ../../basics/service-ticket/settings/priority.rst:20
 msgid ""
 "In other words, **consult your administrator** for details on how he’d "
 "like you to use it."
 msgstr ""
-
+"En d'autres termes, **consulter votre administrateur** pour les détails sur "
+"comment il aimerait que vous les utilisiez."
