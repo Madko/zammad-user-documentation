@@ -9,5 +9,5 @@ Read on to learn how to check for new tickets, and dig up old ones.
    :maxdepth: 1
    :titlesonly:
 
-   by Browsing <find-ticket/browse>
-   by Searching <find-ticket/search>
+   find-ticket/browse
+   find-ticket/search
