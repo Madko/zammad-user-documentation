@@ -92,64 +92,77 @@ msgid ""
 "knowledge base articles**. If you wish to edit the knowledge base, talk "
 "to your administrator about granting you the appropriate permissions."
 msgstr ""
+"Par défaut, les opérateurs ne **sont pas autorisés à créer, éditer, ou gérer "
+"les articles de la base de connaissance**. Si vous souhaitez editer la base de "
+"connaissance, parlez en à votre administrateur pour qu'il vous donne les "
+"permissions appropriées."
 
 #: ../../extras/knowledge-base.rst:43
 msgid "Switching Languages"
-msgstr ""
+msgstr "Changer de langages"
 
 #: ../../extras/knowledge-base.rst:49
 msgid "Use the language menu to view or edit translations of the current page."
-msgstr ""
+msgstr "Utilisez le menu langage pour voir ou éditer les traductions de la "
+"page actuelle."
 
 #: ../../extras/knowledge-base.rst:51
 msgid ""
 "🚧 **What happens when a page hasn’t been translated into the selected "
 "language yet?**"
 msgstr ""
+"🚧 **Qu'arrive t-il quand une page n'a pas encore été traduite dans la langue "
+"sélectionnée?**"
 
 #: ../../extras/knowledge-base.rst:58
 msgid "in Edit Mode"
-msgstr ""
+msgstr "dans le mode édition"
 
 #: ../../extras/knowledge-base.rst:54
 msgid "Untranslated pages are marked with a ⚠️ **warning sign**:"
-msgstr ""
+msgstr "Les pages non traduites sont marquées avec un ⚠️ **panneau attention**:"
 
 #: ../../extras/knowledge-base.rst:65
 msgid "in Preview Mode"
-msgstr ""
+msgstr "dans le mode prévisualisation"
 
 #: ../../extras/knowledge-base.rst:61
 msgid "Untranslated pages are only visible to users with **edit permissions**:"
 msgstr ""
+"Les pages non traduites sont seulement visibles pour les utilisateurs "
+"ayant les **permissions d'édition**:"
 
 #: ../../extras/knowledge-base.rst:71
 msgid "in the published knowledge base"
-msgstr ""
+msgstr "dans la base de connaissance publiée"
 
 #: ../../extras/knowledge-base.rst:68
 msgid "Untranslated pages are **always hidden**:"
-msgstr ""
+msgstr "Les pages non traduites sont **toujours cachées**:"
 
 #: ../../extras/knowledge-base.rst:75
 msgid "Editing Categories"
-msgstr ""
+msgstr "Editer des catégories"
 
 #: ../../extras/knowledge-base.rst:81
 msgid ""
 "📁 If you relocate a category using the **Parent** menu, all of its "
 "articles and sub-categories will be relocated with it."
 msgstr ""
+"📁 Si vous déplacez une catégorie en utilisant le menu **Parent**, tous ses "
+"articles et sous-catégories seront deplacés avec."
 
 #: ../../extras/knowledge-base.rst:84
 msgid ""
 "🗑️ Categories can only be deleted once **all of their articles and sub-"
 "categories** have been deleted or relocated."
 msgstr ""
+"🗑️ Les catégories peuvent seulement être supprimées quand **tous leurs articles "
+"et sous-catégorie** auront été supprimés ou déplacés."
 
 #: ../../extras/knowledge-base.rst:88
 msgid "Editing Answers"
-msgstr ""
+msgstr "Editer des réponses"
 
 #: ../../extras/knowledge-base.rst:94
 msgid ""
@@ -159,42 +172,47 @@ msgid ""
 "shortcuts>` to insert formatted text, bullet lists, and more. You can "
 "even add file attachments and links!"
 msgstr ""
+"L'éditeur de la base de connaissance est proposé avec les même **capacités d'"
+"édition en texte riche** disponibles lors de la rédaction des tickets Zammad. "
+"Ce qui signifie que vous pouvez utiliser les mêmes :doc:`raccourcis clavier "
+"</advanced/keyboard-shortcuts>` pour insérer du texte formaté, des listes à puce,
+et plus encore. Vous pouvez même ajouter des pièces jointes et des liens!"
 
 #: ../../extras/knowledge-base.rst:97
 msgid "🤷 **Why are there three kinds of links?**"
-msgstr ""
+msgstr "🤷 **Pourquoi y a t-il 3 types de liens?**"
 
 #: ../../extras/knowledge-base.rst:100
 msgid "🔗 **Weblink**"
-msgstr ""
+msgstr "🔗 **liens web**"
 
 #: ../../extras/knowledge-base.rst:100
 msgid "URLs pointing to other websites."
-msgstr ""
+msgstr "URLs qui pointent vers d'autres sites web."
 
 #: ../../extras/knowledge-base.rst:104
 msgid "💡 **Link Answer**"
-msgstr ""
+msgstr "💡 **Lien réponse**"
 
 #: ../../extras/knowledge-base.rst
 msgid "Internal references to other knowledge base answers."
-msgstr ""
+msgstr "Références internes vers d'autres réponses de la base de connaissance."
 
 #: ../../extras/knowledge-base.rst
 msgid "(Will not break if destination URL changes.)"
-msgstr ""
+msgstr "(qui ne casseront pas si l'URL de destination change.)"
 
 #: ../../extras/knowledge-base.rst:107
 msgid "📋 **Linked Tickets**"
-msgstr ""
+msgstr "📋 **Tickets liés**"
 
 #: ../../extras/knowledge-base.rst
 msgid "Internal references to Zammad tickets."
-msgstr ""
+msgstr "Références internes vers des tickets Zammad."
 
 #: ../../extras/knowledge-base.rst
 msgid "(Visible only in Preview and Edit Modes.)"
-msgstr ""
+msgstr "(visibles seulement dans les modes prévisualisation et édition.)"
 
 #: ../../extras/knowledge-base.rst:112
 msgid ""
@@ -202,6 +220,9 @@ msgid ""
 "or schedule it to be published at a later date. Articles are **color-"
 "coded** according to their visibility:"
 msgstr ""
+"🙈 Pour définr la **visibilité** d'une réponse pour contrôler qui peut voir un "
+"article ou plannifier sa publication à une date ultérieure. Les articles ont des "
+"**codes couleurs** en fonction de leur visibilité:"
 
 #: ../../extras/knowledge-base.rst:117
 msgid "|grn|"
@@ -209,7 +230,7 @@ msgstr ""
 
 #: ../../extras/knowledge-base.rst:117
 msgid "**Public** (visible to everyone)"
-msgstr ""
+msgstr "**Public** (visible pour tout le monde)"
 
 #: ../../extras/knowledge-base.rst:119
 msgid "|blu|"
@@ -217,7 +238,7 @@ msgstr ""
 
 #: ../../extras/knowledge-base.rst:119
 msgid "**Internal** (visible to agents & editors only)"
-msgstr ""
+msgstr "**Interne** (visible seulement pour les opérateurs & rédacteurs)"
 
 #: ../../extras/knowledge-base.rst:121
 msgid "|gry|"
@@ -225,5 +246,5 @@ msgstr ""
 
 #: ../../extras/knowledge-base.rst:121
 msgid "**Draft/Scheduled/Archived** (visible to editors only)"
-msgstr ""
+msgstr "**Brouillon/plannifié/archivé** (visible seulement pour les rédacteurs)"
 
